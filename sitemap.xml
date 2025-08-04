@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://alaskantf.github.io/plebsprivacy/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://alaskantf.github.io/plebsprivacy/</loc>
+</url>
+<url>
+<loc>https://alaskantf.github.io/plebsprivacy/about-me.html</loc>
+<lastmod>2025-08-04T20:35:12+08:00</lastmod>
+</url>
+<url>
+<loc>https://alaskantf.github.io/plebsprivacy/my-projects.html</loc>
+<lastmod>2025-08-04T20:41:21+08:00</lastmod>
+</url>
+<url>
+<loc>https://alaskantf.github.io/plebsprivacy/why-im-starting-this-blog.html</loc>
+<lastmod>2025-08-04T20:20:52+08:00</lastmod>
+</url>
+</urlset>

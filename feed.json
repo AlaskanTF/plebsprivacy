@@ -1,0 +1,30 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "PlebsClub - Privacy of a Pleb",
+    "description": "",
+    "home_page_url": "https://alaskantf.github.io/plebsprivacy",
+    "feed_url": "https://alaskantf.github.io/plebsprivacy/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "AlaskanTF(ATF)"
+    },
+    "items": [
+        {
+            "id": "https://alaskantf.github.io/plebsprivacy/why-im-starting-this-blog.html",
+            "url": "https://alaskantf.github.io/plebsprivacy/why-im-starting-this-blog.html",
+            "title": "Why I’m Starting This Blog",
+            "summary": "Hello there again, This must be the 10th time I’m making a “Why I’m Starting This Blog” post. At this point, it’s practically tradition. Every&hellip;",
+            "content_html": "<p data-start=\"395\" data-end=\"417\"><strong data-start=\"395\" data-end=\"417\">Hello there again,</strong></p>\n<p data-start=\"419\" data-end=\"538\">This must be the 10th time I’m making a “Why I’m Starting This Blog” post.<br data-start=\"493\" data-end=\"496\">At this point, it’s practically tradition.</p>\n<p data-start=\"540\" data-end=\"800\">Every time I’ve started a blog, it was because something felt worth documenting—some shift in how I live, think, or move through the world. This time, two big themes are pulling me in: <strong data-start=\"725\" data-end=\"769\">my journey toward better digital privacy</strong> and <strong data-start=\"774\" data-end=\"799\">my travel experiences</strong>.</p>\n<hr data-start=\"802\" data-end=\"805\">\n<h3 data-start=\"807\" data-end=\"823\">Why privacy?</h3>\n<p data-start=\"825\" data-end=\"1062\">Over the past few years, I’ve become increasingly aware of just how much of my digital life is <strong data-start=\"920\" data-end=\"959\">tracked, monetized, and centralized</strong>. I don’t like it. I want more control, less noise, and fewer middlemen between me and the tools I use.</p>\n<p data-start=\"1064\" data-end=\"1226\">I’ve started taking steps—changing browsers, rethinking my phone, exploring alternative platforms—but it’s a messy process. So I figured: why not journal it here?</p>\n<hr data-start=\"1228\" data-end=\"1231\">\n<h3 data-start=\"1233\" data-end=\"1248\">Why travel?</h3>\n<p data-start=\"1250\" data-end=\"1459\">Travel has always been part of how I reset and reconnect. Whether it’s a short trip out of town or something longer and off-grid, I notice that being in new environments challenges my routines (in a good way).</p>\n<p data-start=\"1461\" data-end=\"1660\">It also brings up new privacy questions:<br data-start=\"1542\" data-end=\"1545\">How do I book without giving up too much info?<br data-start=\"1591\" data-end=\"1594\">How do I take photos and share memories without bleeding metadata?</p>\n<hr data-start=\"1662\" data-end=\"1665\">\n<h3 data-start=\"1667\" data-end=\"1689\">Why write it down?</h3>\n<p data-start=\"1691\" data-end=\"1861\">Because writing helps me commit.<br data-start=\"1723\" data-end=\"1726\">Because someone else might find it useful.<br data-start=\"1768\" data-end=\"1771\">Because I’ve tried (and failed) to make something like this stick before, and that’s okay.</p>\n<p data-start=\"1863\" data-end=\"1951\">Maybe this version is the one that lasts. Or maybe it isn’t. But here it is—<strong data-start=\"1939\" data-end=\"1950\">post #1</strong>.</p>\n<p data-start=\"1953\" data-end=\"1977\">Let’s see where it goes.</p>",
+            "author": {
+                "name": "AlaskanTF(ATF)"
+            },
+            "tags": [
+                   "Travel Journal",
+                   "Reflections",
+                   "Privacy Journey"
+            ],
+            "date_published": "2025-08-04T20:16:21+08:00",
+            "date_modified": "2025-08-04T20:20:52+08:00"
+        }
+    ]
+}
