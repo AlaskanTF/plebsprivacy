@@ -2,29 +2,26 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "AlaskanTF - Privacy of a Pleb Gamer",
     "description": "",
-    "home_page_url": "https://alaskantf.github.io/plebsprivacy",
-    "feed_url": "https://alaskantf.github.io/plebsprivacy/feed.json",
+    "home_page_url": "https://blog.alaskantf.com",
+    "feed_url": "https://blog.alaskantf.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "AlaskanTF(ATF)"
     },
     "items": [
         {
-            "id": "https://alaskantf.github.io/plebsprivacy/why-im-starting-this-blog.html",
-            "url": "https://alaskantf.github.io/plebsprivacy/why-im-starting-this-blog.html",
+            "id": "https://blog.alaskantf.com/hello-world.html",
+            "url": "https://blog.alaskantf.com/hello-world.html",
             "title": "Hello, world!",
-            "summary": "Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello,&hellip;",
-            "content_html": "<p data-start=\"395\" data-end=\"417\">Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! Hello, world! </p>",
+            "summary": "About Me Hi, I’m AlaskanTF (ATF)! Welcome to my digital home! I’m a passionate gamer, tech enthusiast, and privacy advocate. I created this site to&hellip;",
+            "content_html": "<h1 id=\"about-me\">About Me</h1>\n<h2 id=\"hi-im-alaskantf-atf\">Hi, I’m AlaskanTF (ATF)!</h2>\n<p>Welcome to my digital home! I’m a passionate gamer, tech enthusiast, and privacy advocate. I created this site to blend my love for gaming with my commitment to keeping the digital world safe and secure. Whether you’re here to dive into the latest gaming trends, explore tech projects, or get tips on improving your online privacy, you’re in the right place.</p><h2 id=\"why-i-started-this-site\">Why I Started This Site</h2>\n<p>This site is my way of combining two of my biggest passions—gaming and privacy. In a world where everything is online, I believe it’s important to stay ahead, whether it’s by leveling up in a game or securing your digital life. Here, I’ll share my gaming adventures, tech projects, and privacy tips, with the aim to educate, entertain, and connect with like-minded people.</p><h2 id=\"my-interests\">My Interests</h2>\n<h3 id=\"gaming\">Gaming</h3>\n<p>Gaming is more than just a hobby—it’s a lifestyle. From the thrill of competitive play to exploring expansive worlds, gaming has always been a massive part of my life. I share my favorite gaming experiences, tips, and the occasional livestream here. So whether you’re into strategy games, RPGs, or just want to chat about your favorite titles, you’ll find something to enjoy.</p><h3 id=\"tech\">Tech</h3>\n<p>Tech is my playground. I’m constantly experimenting with new tools, building custom PCs, or learning something new. Whether you’re looking for tech reviews, how-to guides, or the latest project I’m working on, I’m always exploring ways to make things faster, smarter, and more efficient.</p><h3 id=\"digital-privacy-advocacy\">Digital Privacy Advocacy</h3>\n<p>In today’s world, protecting your privacy is more important than ever. As someone who believes in the right to control your personal data, I’m passionate about sharing privacy tips and strategies to help you stay safe online. From VPNs to encrypted messaging, I’ll cover tools and techniques to safeguard your digital footprint.</p>",
             "author": {
                 "name": "AlaskanTF(ATF)"
             },
             "tags": [
-                   "Travel Journal",
-                   "Reflections",
-                   "Privacy Journey"
             ],
-            "date_published": "2025-08-04T20:16:21+08:00",
-            "date_modified": "2025-08-05T02:00:13+08:00"
+            "date_published": "2025-08-06T13:36:24+08:00",
+            "date_modified": "2025-08-06T13:36:24+08:00"
         }
     ]
 }
