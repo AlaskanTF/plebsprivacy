@@ -3,7 +3,7 @@
     <title>AlaskanTF - Privacy of a Pleb Gamer</title>
     <link href="https://blog.alaskantf.com/feed.xml" rel="self" />
     <link href="https://blog.alaskantf.com" />
-    <updated>2025-08-06T15:07:02+08:00</updated>
+    <updated>2025-08-06T17:07:15+08:00</updated>
     <author>
         <name>AlaskanTF(ATF)</name>
     </author>
@@ -16,6 +16,11 @@
         </author>
         <link href="https://blog.alaskantf.com/hello-world/"/>
         <id>https://blog.alaskantf.com/hello-world/</id>
+            <category term="Travel Journal"/>
+            <category term="Tech Tools"/>
+            <category term="Reflections"/>
+            <category term="Privacy Journey"/>
+            <category term="Guides/How-To"/>
 
         <updated>2025-08-06T13:36:24+08:00</updated>
             <summary>
