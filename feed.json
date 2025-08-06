@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://blog.alaskantf.com/hello-world.html",
-            "url": "https://blog.alaskantf.com/hello-world.html",
+            "id": "https://blog.alaskantf.com/hello-world/",
+            "url": "https://blog.alaskantf.com/hello-world/",
             "title": "Hello, world!",
             "summary": "Just a test post.",
             "content_html": "<p>Just a test post.</p>",
