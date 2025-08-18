@@ -3,7 +3,7 @@
     <title>/Home/AlaskanTF - Journal of a Pleb</title>
     <link href="https://blog.alaskantf.com/feed.xml" rel="self" />
     <link href="https://blog.alaskantf.com" />
-    <updated>2025-08-18T18:53:42+08:00</updated>
+    <updated>2025-08-18T19:37:44+08:00</updated>
     <author>
         <name>AlaskanTF(ATF)</name>
     </author>
@@ -18,6 +18,7 @@
         <id>https://blog.alaskantf.com/why-i-choose-unemployment/</id>
         <media:content url="https://blog.alaskantf.com/media/posts/14/Screenshot_20250818_151032-2.png" medium="image" />
             <category term="Reflections"/>
+            <category term="In-my-opinion"/>
             <category term="Finance"/>
 
         <updated>2025-08-18T16:49:00+08:00</updated>
