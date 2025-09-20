@@ -3,7 +3,7 @@
     <title>/Home/AlaskanTF - Journal of a Pleb</title>
     <link href="https://blog.alaskantf.com/feed.xml" rel="self" />
     <link href="https://blog.alaskantf.com" />
-    <updated>2025-09-20T20:27:21+08:00</updated>
+    <updated>2025-09-20T20:33:04+08:00</updated>
     <author>
         <name>AlaskanTF(ATF)</name>
     </author>
@@ -62,7 +62,7 @@
 </ul>
 </li>
 </ul>
-<p>You can read more about threat models here: <a href="https://www.privacyguides.org/en/basics/threat-modeling/">Threat Modeling: The First Step on Your Privacy Journey</a></p>
+<p>You can read more about threat models here: <a href="https://www.privacyguides.org/en/basics/threat-modeling/" target="_blank" rel="noopener noreferrer">Threat Modeling: The First Step on Your Privacy Journey</a></p>
 <h3>Privacy Tools I Use</h3>
 <p>Now that we have an understanding of my threat model, let's take a look at the specific tools I use to protect my privacy. These tools help keep my data secure without compromising too much on convenience:</p>
 <ul>
