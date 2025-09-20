@@ -3,7 +3,7 @@
     <title>/Home/AlaskanTF - Journal of a Pleb</title>
     <link href="https://blog.alaskantf.com/feed.xml" rel="self" />
     <link href="https://blog.alaskantf.com" />
-    <updated>2025-09-20T20:18:39+08:00</updated>
+    <updated>2025-09-20T20:27:21+08:00</updated>
     <author>
         <name>AlaskanTF(ATF)</name>
     </author>
@@ -66,12 +66,12 @@
 <h3>Privacy Tools I Use</h3>
 <p>Now that we have an understanding of my threat model, let's take a look at the specific tools I use to protect my privacy. These tools help keep my data secure without compromising too much on convenience:</p>
 <ul>
-<li><strong>Operating System: Fedora 42 KDE (instead of Windows)</strong>
+<li><strong>Operating System: <a href="https://fedoraproject.org/" target="_blank" rel="noopener noreferrer">Fedora 42 KDE</a> (instead of Windows)</strong>
 <ul>
 <li>I made a previous post about it. check it out <a href="https://blog.alaskantf.com/why-linux-is-my-daily-driver-now/" target="_blank" rel="noopener noreferrer">HERE</a>.<br><br></li>
 </ul>
 </li>
-<li><strong>Browser: Firefox with Privacy Extensions (instead of Chrome)</strong><br>The browser is one of the most important tools for privacy, as it's where I (and everyone) spend most of their online time.<br><br>
+<li><strong>Browser: <a href="https://www.firefox.com" target="_blank" rel="noopener noreferrer">Firefox</a> with Privacy Extensions (instead of Chrome)</strong><br>The browser is one of the most important tools for privacy, as it's where I (and everyone) spend most of their online time.<br><br>
 <ul>
 <li><strong>Privacy Extensions</strong>
 <ul>
@@ -84,12 +84,12 @@
 </li>
 </ul>
 </li>
-<li><strong>VPN: NordVPN</strong><br>NordVPN encrypts my internet traffic and routes it through a server, hiding my real IP address. It’s crucial for preventing surveillance and maintaining anonymity, especially when using public WiFi networks.<br><br></li>
-<li><strong>Password Manager: NordPass &amp; KeePassXC (instead of Google/Apple/Samsung password manager)</strong><br>NordPass is used for securely managing my online passwords, while KeePassXC is my offline, self hosted password manager for sensitive information.<br><br></li>
+<li><strong><a href="https://nordvpn.com/" target="_blank" rel="noopener noreferrer">VPN: NordVPN</a></strong><br>NordVPN encrypts my internet traffic and routes it through a server, hiding my real IP address. It’s crucial for preventing surveillance and maintaining anonymity, especially when using public WiFi networks.<br><br></li>
+<li><strong>Password Manager: <a href="https://nordpass.com/" target="_blank" rel="noopener noreferrer">NordPass</a> &amp; <a href="https://keepassxc.org/" target="_blank" rel="noopener noreferrer">KeePassXC</a> (instead of Google/Apple/Samsung password manager)</strong><br>NordPass is used for securely managing my online passwords, while KeePassXC is my offline, self hosted password manager for sensitive information.<br><br></li>
 <li><strong>Cloud: Self-hosted NAS at Home (instead of Google Drive/OneDrive/Apple Cloud)</strong><br>Instead of relying on third-party cloud services, I use a self-hosted NAS (Network-Attached Storage) system at home. This gives me full control over my data storage and eliminates privacy risks associated with external providers.<br><br></li>
-<li><strong>Email Provider: ProtonMail (instead of Gmail/Hotmail)</strong><br>ProtonMail is a privacy focused email provider that offers end-to-end encryption (E2EE) and a no logs policy. It’s based in Switzerland, known for its strong privacy laws.<br><br></li>
-<li><strong>Search Engine: DuckDuckGo (instead of Google)</strong><br>DuckDuckGo doesn’t track or store your search history. It’s a great alternative to Google, which profiles you based on your search activity.<br><br></li>
-<li><strong>2FA Manager: Aegis Authenticator (instead of Google Authenticator/Authy)</strong><br>Aegis is an open-source two-factor authentication (2FA) codes manager. I use it to secure my online accounts by adding an additional layer of protection beyond just passwords.</li>
+<li><strong><a href="https://proton.me/mail" target="_blank" rel="noopener noreferrer">Email Provider: ProtonMail</a> (instead of Gmail/Hotmail)</strong><br>ProtonMail is a privacy focused email provider that offers end-to-end encryption (E2EE) and a no logs policy. It’s based in Switzerland, known for its strong privacy laws.<br><br></li>
+<li><strong><a href="https://duckduckgo.com" target="_blank" rel="noopener noreferrer">Search Engine: DuckDuckGo</a> (instead of Google)</strong><br>DuckDuckGo doesn’t track or store your search history. It’s a great alternative to Google, which profiles you based on your search activity.<br><br></li>
+<li><strong><a href="https://getaegis.app/" target="_blank" rel="noopener noreferrer">2FA Manager: Aegis Authenticator</a> (instead of Google Authenticator/Authy)</strong><br>Aegis is an open-source two-factor authentication (2FA) codes manager. I use it to secure my online accounts by adding an additional layer of protection beyond just passwords.</li>
 </ul>
 <h3>Steps I Take Beyond Tools and Applications</h3>
 <ol>
