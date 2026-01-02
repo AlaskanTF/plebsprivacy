@@ -3,7 +3,7 @@
     <title>/Home/AlaskanTF - Journal of a Pleb</title>
     <link href="https://blog.alaskantf.com/feed.xml" rel="self" />
     <link href="https://blog.alaskantf.com" />
-    <updated>2026-01-02T14:34:44+08:00</updated>
+    <updated>2026-01-02T14:51:25+08:00</updated>
     <author>
         <name>AlaskanTF(ATF)</name>
     </author>
@@ -16,16 +16,19 @@
         </author>
         <link href="https://blog.alaskantf.com/2025-fund-report-a-year-in-review/"/>
         <id>https://blog.alaskantf.com/2025-fund-report-a-year-in-review/</id>
+        <media:content url="https://blog.alaskantf.com/media/posts/18/915a7ca4-5812-426f-9f9d-da24a104eb66.png" medium="image" />
             <category term="Finance"/>
 
         <updated>2026-01-02T13:53:44+08:00</updated>
             <summary type="html">
                 <![CDATA[
+                        <img src="https://blog.alaskantf.com/media/posts/18/915a7ca4-5812-426f-9f9d-da24a104eb66.png" alt="" />
                     DISCLAIMER: IM NOT A FINANCIAL ADVISER, I'M JUST A DELUSIONAL PLEB WITH NO IDEA WHAT THE FUCK I'M DOING. ANY POST ON THIS WEBSITE IS JUST MY PERSONAL OPINION ONLY AND A JOKE. NOTHING IS REAL. I AM A SCHITZO WHO INVESTS/TRADES IN HIS MIND AND THINKS HE RUNS A&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://blog.alaskantf.com/media/posts/18/915a7ca4-5812-426f-9f9d-da24a104eb66.png" class="type:primaryImage" alt="" /></p>
                 <p class="msg msg--warning"><strong>DISCLAIMER:</strong> IM <strong>NOT A FINANCIAL ADVISER</strong>, I'M JUST A <strong>DELUSIONAL PLEB</strong> WITH <strong>NO IDEA WHAT THE FUCK I'M DOING</strong>. ANY POST ON THIS WEBSITE IS JUST <strong>MY PERSONAL OPINION ONLY</strong> AND A <strong>JOKE</strong>. NOTHING IS REAL. I AM A SCHITZO WHO INVESTS/TRADES IN HIS MIND AND THINKS HE RUNS A BLOODY FUND.</p>
 <p>Dear Family &amp; Friends,</p>
 <p>Thank you for the continued trust and support. As we close out 2025, I wanted to share a transparent review of the fund's performance, key decisions, lessons learned and how I'm thinking about the year ahead. This was one of the most volatile but rewarding year since the fund's inception. Despite sharp drawdowns driven by unexpected macro events, disciplined execution, emotional control and consistency in strategy resulting in a strong outcome.</p>
@@ -74,6 +77,7 @@
 </table>
 <hr>
 <h3>2025 Performance Review</h3>
+<figure class="post__image"><img loading="lazy"  src="https://blog.alaskantf.com/media/posts/18/signal-2026-01-02-143922.png" alt="2025 Fund Performance" width="756" height="393" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://blog.alaskantf.com/media/posts/18/responsive/signal-2026-01-02-143922-xs.png 300w ,https://blog.alaskantf.com/media/posts/18/responsive/signal-2026-01-02-143922-sm.png 480w ,https://blog.alaskantf.com/media/posts/18/responsive/signal-2026-01-02-143922-md.png 768w ,https://blog.alaskantf.com/media/posts/18/responsive/signal-2026-01-02-143922-lg.png 1024w"></figure>
 <p>The fund delivered a <strong>61.89% return in 2025</strong>, improving meaningfully on 2024 returns and bringing the cumulative return since inception to ~351%. The results were achieved during a year marked by sharp market swings and elevated uncertainty.</p>
 <p>The most challenging period was a <strong>26.27% drawdown</strong>, primarily triggered by unexpected tariff announcements that caused a rapid and broad based sell off in the market. While the decline was sudden, decisions were made not with emotions. Positions were reassessed rationally, premiums were made through selling of puts at peak panic, free cash and premiums were allocated, risk was managed and the portfolio was allowed to recover as volatility normalised.</p>
 <p>2025 reinforced a core principle: process matters more than prediction.</p>
